@@ -1,0 +1,35 @@
+.document_search{
+    width: 150px;
+    height: 50px;
+}
+
+.main_button{
+    margin-top: 40px;
+    width: 150px;
+    height: 50px;
+}
+
+.ex_to_rt_status{
+    color:blue;
+    font-weight: bold;
+}
+
+.normal_status {
+    color:#676e8a;
+    font-weight: bold;
+}
+
+.cancel_status {
+    color:red;
+    font-weight: bold;
+}
+
+.complete_status {
+    color:green;
+    font-weight: bold;
+}
+
+.exchange_deducted {
+    color:orange;
+    font-weight: bold;
+}
